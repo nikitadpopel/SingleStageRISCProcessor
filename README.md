@@ -11,7 +11,6 @@ Control unit, Registers, ALU, and Data Memory. The instructions are 16 bits in l
 </p>
 <img title="a title" alt="Alt text" src="https://github.com/nikitadpopel/SingleStageRISCProcessor/blob/main/SchematicDesign.png?raw=true">
 
-![Schematic Design](https://github.com/nikitadpopel/SingleStageRISCProcessor/blob/main/SchematicDesign.png?raw=true)
 <h3>Short-term Goals</h3>
 <ul>
 <li><i>N/A</i></li>
