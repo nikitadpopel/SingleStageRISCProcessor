@@ -10,7 +10,7 @@ This Single Stage RISC Processor was loosely based on ARM/MIPS instruction set a
 Control unit, Registers, ALU, and Data Memory. The instructions are 16 bits in length.
 </p>
 <img title="a title" alt="Alt text" src="https://github.com/nikitadpopel/SingleStageRISCProcessor/blob/main/SchematicDesign.png?raw=true">
-
+[Schematic Diagram](SchematicDesign.png)
 <h3>Short-term Goals</h3>
 <ul>
 <li><i>N/A</i></li>
