@@ -13,7 +13,7 @@ Control unit, Registers, ALU, and Data Memory. The instructions are 16 bits in l
 <h3>Description</h3>
 <img title="Schematic Diagram" alt="" src="https://user-images.githubusercontent.com/69244508/103581650-6fadcc80-4eaa-11eb-97d3-fa22a691be35.PNG">
 <h3>Instruction Set</h3>
-<img title="Instruction Set" alt="" src="https://user-images.githubusercontent.com/64280590/103582378-b4863300-4eab-11eb-9547-64fc2f84176e.PNG">
+<img title="Instruction Set" alt="" src="https://user-images.githubusercontent.com/64280590/103582696-602f8300-4eac-11eb-8bc4-cfe085e69290.PNG">
 <h3>Instruction Format</h3>
 <img title="Instruction Format" alt="" src="https://user-images.githubusercontent.com/64280590/103582523-0038dc80-4eac-11eb-9333-155fb0fcd12d.png">
 
