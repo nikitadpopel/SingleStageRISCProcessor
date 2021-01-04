@@ -6,14 +6,14 @@ Nikita Popel <b>&</b> Trevor Broady
 
 <h3>Description</h3>
 <p>
-... will input this description when I come back...
+This Single Stage RISC Processor was loosely based on ARM/MIPS instruction set and simulated in VHDL. Its components include the Instruction Memory,
+Control unit, Registers, ALU, and Data Memory. The instructions are 16 bits in length.
 </p>
 
 <h3>Short-term Goals</h3>
 <ul>
 <li><i>N/A</i></li>
 </ul>
-
 
 <h3>Long-term Goals</h3>
 <ul>
