@@ -1,2 +1,30 @@
-# SingleStageRISCProcessor
-Created by Trevor Broady and Nikita Popel
+<h1>SingleStageRISCProcessor</h1>
+<h3>Creators</h3>
+Nikita Popel <b>&</b> Trevor Broady
+
+<i>Creation Date - October 17th, 2020</i>
+
+<h3>Description</h3>
+<p>
+... will input this description when I come back...
+</p>
+
+<h3>Short-term Goals</h3>
+<ul>
+<li><i>N/A</i></li>
+</ul>
+
+
+<h3>Long-term Goals</h3>
+<ul>
+<li><i>N/A</i></li>
+</ul>
+
+<h2>Update Log</h2>
+<table>
+<tr><th>Date</th><th>Log</th></tr>
+<tr><td>2020/10/27</td><td>Trevor Broady, Nikita Popel - Outlined Instruction Set</td></tr>
+<tr><td>2020/11/03</td><td>Trevor Broady, Nikita Popel - Tested Individual units, completed the datapath, and tested the composite datapath</td></tr>
+<tr><td>2020/11/10</td><td>Trevor Broady, Nikita Popel - Designed and built the control unit. Intgegrated control unit with datapath</td></tr>
+<tr><td>2020/11/17</td><td>Trevor Broady, Nikita Popel - Made sure final design was working</td></tr>
+</table>
